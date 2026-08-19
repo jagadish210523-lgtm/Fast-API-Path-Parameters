@@ -1,2 +1,18 @@
-# Fast-API-Path-Parameters
-Hands-on FastAPI practice focused on API endpoints and path parameters, including static paths, single path parameters, and multiple path parameters. Built while learning FastAPI fundamentals through coding challenges and practical exercises.
+# FastAPI Path Parameters Practice
+
+This repository contains my hands-on practice with **FastAPI API endpoints and path parameters**.
+
+## Topics Practiced
+
+- Basic GET endpoints
+- Static paths
+- Single path parameters
+- Multiple path parameters
+- Returning dynamic responses based on path parameters
+- Testing endpoints with FastAPI Swagger UI
+
+## Project Structure
+
+```text
+FastAPI-Path-Parameters-Practice/
+└── main.py
